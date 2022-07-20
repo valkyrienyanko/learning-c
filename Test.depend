@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1658354243 source:c:\users\valk-desktop\documents\codeblocks projects\test\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"math.h"
+
+1658354289 c:\users\valk-desktop\documents\codeblocks projects\test\test\include\math.h
+
+1658354275 source:c:\users\valk-desktop\documents\codeblocks projects\test\test\src\math.c
+	"math.h"
+
